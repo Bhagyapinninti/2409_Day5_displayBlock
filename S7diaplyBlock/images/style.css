@@ -1,0 +1,55 @@
+#padmapic{
+    
+    width: 400px;
+    height: 400px;
+    opacity: 0.3;
+}
+
+#ratanpic{
+    width: 400px;
+    height: 400px;
+    visibility: visible;
+}
+#khiljipic{
+    width: 400px;
+    height: 400px;
+}
+#body{
+    background-color: brown;
+}
+#mainheading
+{
+    text-align: center;
+    font-style: 4rem;
+    box-shadow: 10px 10px 10px ;
+    text-shadow: 10px 10px 10px whitesmoke;
+    border: 5px sloid whitesmoke;
+    border-radius: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: darkslategray ;
+    
+    
+}
+#padmadesc{
+    display: inline-block;
+    width: 1000px;
+    height: 400px;
+    text-align: justify;
+    overflow: auto;
+    
+
+}
+#ratandesc{
+    display: inline-block;
+    width: 1000px;
+    height: 400px;
+    text-align: justify;
+    overflow: auto; 
+}
+#khiljidesc{
+    display: inline-block;
+    width: 1000px;
+    height: 400px;
+    text-align: justify;
+    overflow: auto;
+}
